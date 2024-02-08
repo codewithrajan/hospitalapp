@@ -1,0 +1,154 @@
+[{
+  "_id": {
+    "$oid": "65c3d4c77a702efd20c5ef76"
+  },
+  "hospitalid": "1",
+  "name": "Apollo Hospitals"
+},
+{
+  "_id": {
+    "$oid": "65c3d4c77a702efd20c5ef77"
+  },
+  "hospitalid": "2",
+  "name": "Jawaharlal Nehru Medical College and Hospital"
+},
+{
+  "_id": {
+    "$oid": "65c3d4c77a702efd20c5ef78"
+  },
+  "hospitalid": "3",
+  "name": "Indira Gandhi Institute of Medical Sciences (IGIMS)"
+},
+{
+  "_id": {
+    "$oid": "65c3d4c77a702efd20c5ef79"
+  },
+  "hospitalid": "4",
+  "name": "AIIMS - All India Institute Of Medical Science"
+},
+{
+  "_id": {
+    "$oid": "65c3d4c77a702efd20c5ef7a"
+  },
+  "hospitalid": "5",
+  "name": "Bara Hindu Rao Hospital"
+},
+{
+  "_id": {
+    "$oid": "65c3d4c77a702efd20c5ef7b"
+  },
+  "hospitalid": "6",
+  "name": "Deen Dayal Upadhyaya"
+},
+{
+  "_id": {
+    "$oid": "65c3d4c77a702efd20c5ef7c"
+  },
+  "hospitalid": "7",
+  "name": "Sir Ganga Ram Hospital, Pusa Road"
+},
+{
+  "_id": {
+    "$oid": "65c3d4c77a702efd20c5ef7d"
+  },
+  "hospitalid": "8",
+  "name": "Maharaja Agrasan, Punjabi Bagh"
+},
+{
+  "_id": {
+    "$oid": "65c3d4c77a702efd20c5ef7e"
+  },
+  "hospitalid": "9",
+  "name": "Meta Chanan Dev, Janak Puri"
+},
+{
+  "_id": {
+    "$oid": "65c3d4c77a702efd20c5ef7f"
+  },
+  "hospitalid": "10",
+  "name": "LNJP, Delhi Gate"
+},
+{
+  "_id": {
+    "$oid": "65c3d4c77a702efd20c5ef80"
+  },
+  "hospitalid": "11",
+  "name": "Moolchand"
+},
+{
+  "_id": {
+    "$oid": "65c3d4c77a702efd20c5ef81"
+  },
+  "hospitalid": "12",
+  "name": "Max Medcentre"
+},
+{
+  "_id": {
+    "$oid": "65c3d4c77a702efd20c5ef82"
+  },
+  "hospitalid": "13",
+  "name": "Ram Manohar Lohia,, Central Secretariat"
+},
+{
+  "_id": {
+    "$oid": "65c3d4c77a702efd20c5ef83"
+  },
+  "hospitalid": "14",
+  "name": "Safdarjung Hospital"
+},
+{
+  "_id": {
+    "$oid": "65c3d4c77a702efd20c5ef84"
+  },
+  "hospitalid": "15",
+  "name": "Escorts Heart Institute & Res. Ctr., Okhla"
+},
+{
+  "_id": {
+    "$oid": "65c3d4c77a702efd20c5ef85"
+  },
+  "hospitalid": "16",
+  "name": "G. B. Pant Hospital, Delhi Gate"
+},
+{
+  "_id": {
+    "$oid": "65c3d4c77a702efd20c5ef86"
+  },
+  "hospitalid": "17",
+  "name": "Indraprastha Apollo Hospital, Sarita Viharl"
+},
+{
+  "_id": {
+    "$oid": "65c3d4c77a702efd20c5ef87"
+  },
+  "hospitalid": "18",
+  "name": "Institute For The Physically Handicapped"
+},
+{
+  "_id": {
+    "$oid": "65c3d4c77a702efd20c5ef88"
+  },
+  "hospitalid": "19",
+  "name": "St. Stephens Hospital, Tiz Hazari"
+},
+{
+  "_id": {
+    "$oid": "65c3d4c77a702efd20c5ef89"
+  },
+  "hospitalid": "20",
+  "name": "Sant Parmanand Hospitals, Civil Lines"
+},
+{
+  "_id": {
+    "$oid": "65c3d4c77a702efd20c5ef8a"
+  },
+  "hospitalid": "21",
+  "name": "Dr. B.L. Kapoor Memorial, Pusa Road"
+},
+{
+  "_id": {
+    "$oid": "65c3d4c77a702efd20c5ef8b"
+  },
+  "hospitalid": "22",
+  "name": "Smt. Sucheta Kriplani"
+}]

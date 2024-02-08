@@ -1,0 +1,896 @@
+[{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f1a5"
+  },
+  "psychiatristid": "1",
+  "name": "Dr. Sandeep Govil",
+  "hospitalid": "1"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f1a6"
+  },
+  "psychiatristid": "2",
+  "name": "Rajan Singh",
+  "hospitalid": "1"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f1a7"
+  },
+  "psychiatristid": "3",
+  "name": "Dr. Shashi Bhushan Kumar",
+  "hospitalid": "1"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f1a8"
+  },
+  "psychiatristid": "4",
+  "name": "Niraj Kumar",
+  "hospitalid": "1"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f1a9"
+  },
+  "psychiatristid": "5",
+  "name": "Kishan Singh",
+  "hospitalid": "1"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f1aa"
+  },
+  "psychiatristid": "6",
+  "name": "RaviKant Shukla",
+  "hospitalid": "1"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f1ab"
+  },
+  "psychiatristid": "7",
+  "name": "Ram Krishna",
+  "hospitalid": "2"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f1ac"
+  },
+  "psychiatristid": "8",
+  "name": "Navin Reddy",
+  "hospitalid": "2"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f1ad"
+  },
+  "psychiatristid": "9",
+  "name": "Kishan Singh",
+  "hospitalid": "2"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f1ae"
+  },
+  "psychiatristid": "10",
+  "name": "Gajanan Prajapati",
+  "hospitalid": "2"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f1af"
+  },
+  "psychiatristid": "11",
+  "name": "Jay Krishna",
+  "hospitalid": "2"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f1b0"
+  },
+  "psychiatristid": "12",
+  "name": "Happy Reddy",
+  "hospitalid": "3"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f1b1"
+  },
+  "psychiatristid": "13",
+  "name": "Saket Gautam",
+  "hospitalid": "3"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f1b2"
+  },
+  "psychiatristid": "14",
+  "name": "Mohan Jha",
+  "hospitalid": "3"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f1b3"
+  },
+  "psychiatristid": "15",
+  "name": "Ranjeet Kumar",
+  "hospitalid": "3"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f1b4"
+  },
+  "psychiatristid": "16",
+  "name": "Jay Shankar Singh",
+  "hospitalid": "3"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f1b5"
+  },
+  "psychiatristid": "17",
+  "name": "Gautam",
+  "hospitalid": "4"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f1b6"
+  },
+  "psychiatristid": "18",
+  "name": "Mohan Jha",
+  "hospitalid": "4"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f1b7"
+  },
+  "psychiatristid": "19",
+  "name": "Ravi Kumar",
+  "hospitalid": "5"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f1b8"
+  },
+  "psychiatristid": "20",
+  "name": "Shankar Singh",
+  "hospitalid": "5"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f1b9"
+  },
+  "psychiatristid": "21",
+  "name": "GautamRavi",
+  "hospitalid": "5"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f1ba"
+  },
+  "psychiatristid": "22",
+  "name": "Ravi Jha",
+  "hospitalid": "6"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f1bb"
+  },
+  "psychiatristid": "23",
+  "name": "Abc Kumar",
+  "hospitalid": "5"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f1bc"
+  },
+  "psychiatristid": "24",
+  "name": "Shankar Singh",
+  "hospitalid": "6"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f1bd"
+  },
+  "psychiatristid": "25",
+  "name": "Gavi",
+  "hospitalid": "6"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f1be"
+  },
+  "psychiatristid": "26",
+  "name": "Jha",
+  "hospitalid": "6"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f1bf"
+  },
+  "psychiatristid": "27",
+  "name": "Abc",
+  "hospitalid": "7"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f1c0"
+  },
+  "psychiatristid": "28",
+  "name": "Shankar",
+  "hospitalid": "7"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f1c1"
+  },
+  "psychiatristid": "29",
+  "name": "Gavitri",
+  "hospitalid": "6"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f1c2"
+  },
+  "psychiatristid": "30",
+  "name": "Jha",
+  "hospitalid": "6"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f1c3"
+  },
+  "psychiatristid": "31",
+  "name": "Abcd",
+  "hospitalid": "8"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f1c4"
+  },
+  "psychiatristid": "32",
+  "name": "Shankar",
+  "hospitalid": "8"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f1c5"
+  },
+  "psychiatristid": "33",
+  "name": "Gav dev itri",
+  "hospitalid": "9"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f1c6"
+  },
+  "psychiatristid": "34",
+  "name": "Jh Kushwa",
+  "hospitalid": "8"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f1c7"
+  },
+  "psychiatristid": "35",
+  "name": "Ab Singh cd",
+  "hospitalid": "9"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f1c8"
+  },
+  "psychiatristid": "36",
+  "name": "Shankar Tiwari ",
+  "hospitalid": "10"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f1c9"
+  },
+  "psychiatristid": "37",
+  "name": "Gaurav Jha",
+  "hospitalid": "9"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f1ca"
+  },
+  "psychiatristid": "38",
+  "name": "Jh Kushwa",
+  "hospitalid": "10"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f1cb"
+  },
+  "psychiatristid": "39",
+  "name": "Ab Singh",
+  "hospitalid": "10"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f1cc"
+  },
+  "psychiatristid": "40",
+  "name": "Tiwari Kushan",
+  "hospitalid": "10"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f1cd"
+  },
+  "psychiatristid": "41",
+  "name": "Gaurav Kumar Jha",
+  "hospitalid": "10"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f1ce"
+  },
+  "psychiatristid": "42",
+  "name": "KishJh Kushwa",
+  "hospitalid": "10"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f1cf"
+  },
+  "psychiatristid": "43",
+  "name": "Ravi Monhan Singh",
+  "hospitalid": "4"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f1d0"
+  },
+  "psychiatristid": "44",
+  "name": "Rajan Kushan",
+  "hospitalid": "4"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f1d1"
+  },
+  "psychiatristid": "45",
+  "name": "Raman Preet",
+  "hospitalid": "4"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f1d2"
+  },
+  "psychiatristid": "46",
+  "name": "Rajan Kushwaha",
+  "hospitalid": "4"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f1d3"
+  },
+  "psychiatristid": "45",
+  "name": "Ravi Monhan",
+  "hospitalid": "5"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f1d4"
+  },
+  "psychiatristid": "46",
+  "name": "Rajan singh",
+  "hospitalid": "7"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f1d5"
+  },
+  "psychiatristid": "47",
+  "name": "Preet",
+  "hospitalid": "7"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f1d6"
+  },
+  "psychiatristid": "48",
+  "name": " Kushwaha",
+  "hospitalid": "7"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f1d7"
+  },
+  "psychiatristid": "49",
+  "name": "Ravi Ranjan Monhan",
+  "hospitalid": "8"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f1d8"
+  },
+  "psychiatristid": "50",
+  "name": "Kumar Raj singh",
+  "hospitalid": "8"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f1d9"
+  },
+  "psychiatristid": "51",
+  "name": "Preet Kumar",
+  "hospitalid": "9"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f1da"
+  },
+  "psychiatristid": "52",
+  "name": "Mohan Kushwaha",
+  "hospitalid": "9"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f1db"
+  },
+  "psychiatristid": "53",
+  "name": "Ravi Ranjan",
+  "hospitalid": "11"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f1dc"
+  },
+  "psychiatristid": "54",
+  "name": "Raj singh",
+  "hospitalid": "11"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f1dd"
+  },
+  "psychiatristid": "55",
+  "name": "Preet Singh Kumar",
+  "hospitalid": "11"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f1de"
+  },
+  "psychiatristid": "56",
+  "name": "Mohan Sinha",
+  "hospitalid": "11"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f1df"
+  },
+  "psychiatristid": "57",
+  "name": "Ravi Kumar Ranjan",
+  "hospitalid": "11"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f1e0"
+  },
+  "psychiatristid": "58",
+  "name": "Raj Sigh singh",
+  "hospitalid": "11"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f1e1"
+  },
+  "psychiatristid": "59",
+  "name": "Singh Kumar",
+  "hospitalid": "11"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f1e2"
+  },
+  "psychiatristid": "60",
+  "name": "Mohan Neet Sinha",
+  "hospitalid": "11"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f1e3"
+  },
+  "psychiatristid": "61",
+  "name": "Rajan Singh",
+  "hospitalid": "12"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f1e4"
+  },
+  "psychiatristid": "63",
+  "name": "Kumar Singh",
+  "hospitalid": "12"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f1e5"
+  },
+  "psychiatristid": "62",
+  "name": "Rajan Kumar Singh",
+  "hospitalid": "12"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f1e6"
+  },
+  "psychiatristid": "65",
+  "name": "Navin Singh",
+  "hospitalid": "12"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f1e7"
+  },
+  "psychiatristid": "67",
+  "name": "rajan singh",
+  "hospitalid": "12"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f1e8"
+  },
+  "psychiatristid": "68",
+  "name": "rajan singh",
+  "hospitalid": "13"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f1e9"
+  },
+  "psychiatristid": "69",
+  "name": "Ravikant Singh",
+  "hospitalid": "13"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f1ea"
+  },
+  "psychiatristid": "70",
+  "name": "Vinay Singh Kushwaha",
+  "hospitalid": "13"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f1eb"
+  },
+  "psychiatristid": "71",
+  "name": "Himanshu Singh Kushwaha",
+  "hospitalid": "13"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f1ec"
+  },
+  "psychiatristid": "72",
+  "name": "Vinod Singh",
+  "hospitalid": "13"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f1ed"
+  },
+  "psychiatristid": "73",
+  "name": "Abhay Pandey",
+  "hospitalid": "13"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f1ee"
+  },
+  "psychiatristid": "74",
+  "name": "Niraj Kumar Singh",
+  "hospitalid": "14"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f1ef"
+  },
+  "psychiatristid": "75",
+  "name": "Suraj Kumar Pandy",
+  "hospitalid": "14"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f1f0"
+  },
+  "psychiatristid": "76",
+  "name": "Diraj Kumar Yadav",
+  "hospitalid": "14"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f1f1"
+  },
+  "psychiatristid": "77",
+  "name": "Aditya Kumar Mishra",
+  "hospitalid": "14"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f1f2"
+  },
+  "psychiatristid": "78",
+  "name": "Pawan Reddy",
+  "hospitalid": "14"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f1f3"
+  },
+  "psychiatristid": "79",
+  "name": "Mukesh Kumar",
+  "hospitalid": "15"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f1f4"
+  },
+  "psychiatristid": "80",
+  "name": "Lokesh Kumar",
+  "hospitalid": "15"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f1f5"
+  },
+  "psychiatristid": "81",
+  "name": "Rahul Maurya",
+  "hospitalid": "15"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f1f6"
+  },
+  "psychiatristid": "82",
+  "name": "Jhunnu Rajput",
+  "hospitalid": "15"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f1f7"
+  },
+  "psychiatristid": "83",
+  "name": "Sameer Singh",
+  "hospitalid": "15"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f1f8"
+  },
+  "psychiatristid": "84",
+  "name": "Munna Kumar singh",
+  "hospitalid": "16"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f1f9"
+  },
+  "psychiatristid": "85",
+  "name": "Neha Kumari",
+  "hospitalid": "16"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f1fa"
+  },
+  "psychiatristid": "86",
+  "name": "Monalish Vyahut",
+  "hospitalid": "16"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f1fb"
+  },
+  "psychiatristid": "87",
+  "name": "Naresh Kushwaha",
+  "hospitalid": "16"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f1fc"
+  },
+  "psychiatristid": "88",
+  "name": "Siwam Kumar Jha",
+  "hospitalid": "16"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f1fd"
+  },
+  "psychiatristid": "89",
+  "name": "Navin Kumar Yadav",
+  "hospitalid": "17"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f1fe"
+  },
+  "psychiatristid": "90",
+  "name": "Ravi Maurya",
+  "hospitalid": "17"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f1ff"
+  },
+  "psychiatristid": "91",
+  "name": "Vishal Kumar Pandey",
+  "hospitalid": "17"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f200"
+  },
+  "psychiatristid": "92",
+  "name": "Ayush Yadav",
+  "hospitalid": "17"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f201"
+  },
+  "psychiatristid": "93",
+  "name": "Mohan Reddy",
+  "hospitalid": "17"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f202"
+  },
+  "psychiatristid": "94",
+  "name": "Kushwaha Sailesh",
+  "hospitalid": "18"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f203"
+  },
+  "psychiatristid": "95",
+  "name": "Priyanka Dutta",
+  "hospitalid": "18"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f204"
+  },
+  "psychiatristid": "96",
+  "name": "Gulchar Chandra",
+  "hospitalid": "18"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f205"
+  },
+  "psychiatristid": "97",
+  "name": "Navin Patnayak Singh",
+  "hospitalid": "18"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f206"
+  },
+  "psychiatristid": "98",
+  "name": "Kiran Maurya",
+  "hospitalid": "19"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f207"
+  },
+  "psychiatristid": "99",
+  "name": "Akhilesh Kumar Mishra",
+  "hospitalid": "19"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f208"
+  },
+  "psychiatristid": "100",
+  "name": "Rajan Singh Kushwaha",
+  "hospitalid": "19"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f209"
+  },
+  "psychiatristid": "101",
+  "name": "Mohan Reddy South",
+  "hospitalid": "19"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f20a"
+  },
+  "psychiatristid": "102",
+  "name": "Tanish Tomar",
+  "hospitalid": "20"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f20b"
+  },
+  "psychiatristid": "103",
+  "name": "Dhirendra Shastri",
+  "hospitalid": "20"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f20c"
+  },
+  "psychiatristid": "104",
+  "name": "Monalish Kumari",
+  "hospitalid": "20"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f20d"
+  },
+  "psychiatristid": "105",
+  "name": "Priya Singh",
+  "hospitalid": "21"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f20e"
+  },
+  "psychiatristid": "106",
+  "name": "Damini Kumari",
+  "hospitalid": "21"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f20f"
+  },
+  "psychiatristid": "107",
+  "name": "Bajrang Singh Maurya",
+  "hospitalid": "21"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f210"
+  },
+  "psychiatristid": "108",
+  "name": "Dinesh Kumar Dhakkad",
+  "hospitalid": "21"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f211"
+  },
+  "psychiatristid": "109",
+  "name": "Pranav Sharma",
+  "hospitalid": "22"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f212"
+  },
+  "psychiatristid": "110",
+  "name": "Sahil Sharma",
+  "hospitalid": "22"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f213"
+  },
+  "psychiatristid": "111",
+  "name": "Sunil Kumar Sharma",
+  "hospitalid": "22"
+},
+{
+  "_id": {
+    "$oid": "65c3da327a702efd20c5f214"
+  },
+  "psychiatristid": "112",
+  "name": "Navin Reddy",
+  "hospitalid": "22"
+}]
